@@ -15,6 +15,6 @@ setup(
     platforms='any',
     install_requires=[
         'Flask',
-        'Pillow==1.7.8',
+        'Pillow==2.2.1',
     ],
 )
